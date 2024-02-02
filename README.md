@@ -12,7 +12,7 @@ Hello! 👋 I'm Juan Camilo Rivera, an enthusiastic software developer. My journ
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github)<br/>
 ![](https://github-readme-streak-stats-git-vercel-chrisk824.vercel.app/?user=DaydreamsDev&theme=blueberry&hide_border=false&starting_year=2017&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D)<br/>
-![](https://github-readme-stats-daydreamsdeveloper.vercel.app/api/top-langs/?username=DaydreamsDev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=SCSS,ShaderLab&langs_count=9)
+![](https://github-readme-stats-daydreamsdeveloper.vercel.app/api/top-langs/?username=DaydreamsDev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=SCSS,ShaderLab,CMake,HLSL&langs_count=10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaydreamsDev&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
