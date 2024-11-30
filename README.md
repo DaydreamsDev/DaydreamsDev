@@ -16,7 +16,10 @@ Hello! 👋 I'm Juan Camilo Rivera, an enthusiastic software developer. My journ
 ¡Hola! 👋 Soy Juan Camilo Rivera, desarrollador de software. Mi viaje en el mundo de la programación ha sido una emocionante travesía de desafíos y logros.<br><br>Con experiencia sólida en diseño, implementación y mantenimiento de sistemas. He liderado equipos y compartido conocimientos como instructor. Mis habilidades incluyen Unity, C#, PHP, Dart, Java y SQL, junto con metodologías ágiles como Scrum y Kanban.<br><br>En el ámbito de los idiomas, poseo fluidez tanto en inglés (C1) como en español (C2 nativo), lo que me permite comunicarme efectivamente en entornos sociales, académicos y laborales.<br><br>Mi formación académica, combinada con mi experiencia práctica, me posiciona como un profesional versátil y comprometido.<br><br>Si buscas un desarrollador con habilidades sólidas y enfoque en resultados, ¡encuéntrame en [DaydreamsDeveloper.com](https://daydreamsdeveloper.com/home-es.html) o visita mi [portafolio](https://daydreamsdeveloper.com/portfolio-es.html)! Espero colaborar contigo en proyectos emocionantes.
 
 ## 🌎 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daydreamsdeveloper) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/3DGamesDevelope) 
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white)](https://daydreamsdeveloper.com)
+[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/3DGamesDevelope)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaydreamsDev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daydreamsdeveloper)
 ---
 
 > [![View count](https://visitcount.itsvg.in/api?id=DaydreamsDev&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=DaydreamsDev)
