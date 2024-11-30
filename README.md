@@ -1,7 +1,9 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github)<br/>
-![](https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=DaydreamsDev&theme=ambient-gradient&hide_border=false&starting_year=2014&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D)<br/>
-![](https://github-readme-stats-daydreamsdeveloper.vercel.app/api/top-langs/?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=SCSS,ShaderLab,CMake,HLSL&langs_count=10) 
+# <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="25px"> GitHub Stats:
+[<img src="https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github" align="center" height="300">](https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://github-readme-stats-daydreamsdeveloper.vercel.app/api/top-langs/?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=SCSS,ShaderLab,CMake,HLSL&langs_count=10" align="center" height="300">](https://github-readme-stats-daydreamsdeveloper.vercel.app/api/top-langs/?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=SCSS,ShaderLab,CMake,HLSL&langs_count=10) 
+</br></br>
+[<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=DaydreamsDev&theme=ambient-gradient&hide_border=false&starting_year=2014&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D">](https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=DaydreamsDev&theme=ambient-gradient&hide_border=false&starting_year=2014&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D)
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=daydreamsdev&no-frame=true&margin-w=60&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
