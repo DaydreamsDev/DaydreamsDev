@@ -24,6 +24,4 @@ Hello! 👋 I'm Juan Camilo Rivera, an enthusiastic software developer. My journ
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daydreamsdeveloper)
 ---
 
-> [![View count](https://visitcount.itsvg.in/api?id=DaydreamsDev&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=DaydreamsDev)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and edited by DaydreamsDeveloper ( https://daydreamsdeveloper.com )-->
+[![Visits Badge](https://badges.pufler.dev/visits/DaydreamsDev/badge-it?logo=github&a=1)](https://daydreamsdeveloper.com)
