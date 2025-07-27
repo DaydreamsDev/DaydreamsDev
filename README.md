@@ -20,7 +20,3 @@ Hello! I'm Juan Camilo Rivera, software developer. My journey in the programming
 
 # Sobre Mí:
 ¡Hola! Soy Juan Camilo Rivera, desarrollador de software. Mi viaje en el mundo de la programación ha sido una emocionante travesía de desafíos y logros.<br><br>Con experiencia sólida en diseño, implementación y mantenimiento de sistemas. He liderado equipos y compartido conocimientos como instructor. Mis habilidades incluyen Unity, C#, PHP, Dart, Java y SQL, junto con metodologías ágiles como Scrum y Kanban.<br><br>En el ámbito de los idiomas, poseo fluidez tanto en inglés (C1) como en español (C2 nativo), lo que me permite comunicarme efectivamente en entornos sociales, académicos y laborales.<br><br>Mi formación académica, combinada con mi experiencia práctica, me posiciona como un profesional versátil y comprometido.<br><br>Si buscas un desarrollador con habilidades sólidas y enfoque en resultados, ¡encuéntrame en [DaydreamsDeveloper.com](https://daydreamsdeveloper.com/home-es.html) o visita mi [portafolio](https://daydreamsdeveloper.com/portfolio-es.html)! Espero colaborar contigo en proyectos emocionantes.
-
----
-
-[![Visits Badge](https://badges.pufler.dev/visits/DaydreamsDev/badge-it?logo=github&a=1)](https://daydreamsdeveloper.com)
