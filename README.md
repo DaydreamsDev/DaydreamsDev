@@ -63,7 +63,7 @@
 # 🧠 Engineering Practices
 **Principles:**&nbsp;&nbsp;SOLID · DRY · KISS · YAGNI · Design Patterns
 
-**Architecture:** Layered · MVC
+**Architecture:** Layered · MVC · REST APIs
 
 **Process:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD · SDD · Scrum · Kanban
 
