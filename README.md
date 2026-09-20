@@ -1,3 +1,6 @@
+# Juan Camilo Rivera — DaydreamsDev
+**From daydream to production — games, apps and web platforms.**
+
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white)](https://daydreamsdeveloper.com)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/3DGamesDevelope)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaydreamsDev)
@@ -22,6 +25,28 @@
 
 **Tools:** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Claude AI Agent](https://img.shields.io/badge/Claude_AI_Agent-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
+# 🚀 In Production
+**Products I've built and shipped.**
+
+### 🍽️ iMesas — Restaurant POS
+Less paper, more control: orders flow from waiter to kitchen, cash register, analytics and multi-location. Free plan, 30-day trial.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+🔗 [Web app](https://daydreamsdeveloper.com/app/) · [Google Play](https://play.google.com/store/apps/details?id=com.daydreamsdeveloper.imesas) · [Linux](https://daydreamsdeveloper.com/api/v1/download/latest?platform=linux) · [Windows](https://daydreamsdeveloper.com/api/v1/download/latest?platform=windows)
+
+### 🧾 SimplyfyePOS — POS for small businesses
+Point of sale built for small businesses: Flutter client, Slim 4 REST API and MariaDB — products, orders, reports and multi-user access.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge) ![Slim](https://img.shields.io/badge/Slim-0E7FC0?style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🔘 floating-action-button-extended — WordPress plugin
+Extends the floating action button with messaging and social widgets for WordPress sites.
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+🔗 [GitHub](https://github.com/DaydreamsDev/floating-action-button-extended)
+
+### 🎮 RSBot — Silkroad Online project
+Open-source Silkroad Online bot written in C# with C/C++ interop.
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+🔗 [GitHub](https://github.com/DaydreamsDev/RSBot)
+
 # <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="25px"> GitHub Stats:
 <p align="center">
   <a href="https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github&card_width=420"><img src="https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github&card_width=420" alt="GitHub Stats"></a>
@@ -36,7 +61,23 @@
 </p>
 
 # About Me:
-Hello! I'm Juan Camilo Rivera, software developer. My journey in the programming world has been an exciting adventure of challenges and achievements.<br><br>With a robust background in designing, implementing, and maintaining systems, I've led teams and shared knowledge as an instructor. My skills encompass Unity, C#, PHP, Dart, Java, and SQL, along with agile methodologies like Scrum and Kanban.<br><br>In terms of languages, I am fluent in both English (C1) and Spanish (C2 native), enabling effective communication in social, academic, and professional environments.<br><br>My academic background, coupled with practical experience, positions me as a versatile and dedicated professional.<br><br>If you're seeking a developer with solid skills and a results-oriented approach, you can find me at [DaydreamsDeveloper.com](https://daydreamsdeveloper.com/home.html) or explore my [portfolio](https://daydreamsdeveloper.com/portfolio.html)! I look forward to collaborating with you on exciting projects.
+I'm Juan Camilo Rivera, a software developer with one rule: *if it doesn't ship, it doesn't exist.*
+
+I build the full stack of my own products — Unity games, Flutter restaurant apps (iMesas, SimplyfyePOS), and PHP/React web platforms — from database schema to the nginx server that serves them, CI/CD included.
+
+I've led teams and taught as an instructor, so I write code for the person who comes next: clean architecture, honest tests, and names that say what they mean.
+
+Fluent in English (C1) and Spanish (C2) — and convinced that the best requirement is the one the user says out loud.
+
+You can find me at [DaydreamsDeveloper.com](https://daydreamsdeveloper.com/home.html) or in my [portfolio](https://daydreamsdeveloper.com/portfolio.html).
 
 # Sobre Mí:
-¡Hola! Soy Juan Camilo Rivera, desarrollador de software. Mi viaje en el mundo de la programación ha sido una emocionante travesía de desafíos y logros.<br><br>Con experiencia sólida en diseño, implementación y mantenimiento de sistemas. He liderado equipos y compartido conocimientos como instructor. Mis habilidades incluyen Unity, C#, PHP, Dart, Java y SQL, junto con metodologías ágiles como Scrum y Kanban.<br><br>En el ámbito de los idiomas, poseo fluidez tanto en inglés (C1) como en español (C2 nativo), lo que me permite comunicarme efectivamente en entornos sociales, académicos y laborales.<br><br>Mi formación académica, combinada con mi experiencia práctica, me posiciona como un profesional versátil y comprometido.<br><br>Si buscas un desarrollador con habilidades sólidas y enfoque en resultados, ¡encuéntrame en [DaydreamsDeveloper.com](https://daydreamsdeveloper.com/home-es.html) o visita mi [portafolio](https://daydreamsdeveloper.com/portfolio-es.html)! Espero colaborar contigo en proyectos emocionantes.
+Soy Juan Camilo Rivera, desarrollador de software con una regla: *lo que no se entrega, no existe.*
+
+Construyo el stack completo de mis propios productos — juegos en Unity, apps de restaurantes en Flutter (iMesas, SimplyfyePOS) y plataformas web en PHP y React — desde el esquema de base de datos hasta el servidor nginx que los sirve, CI/CD incluido.
+
+He liderado equipos y enseñado como instructor, así que programo para quien viene después: arquitectura limpia, tests honestos y nombres que dicen lo que significan.
+
+Hablo español nativo (C2) e inglés fluido (C1) — y aprendí que el mejor requerimiento es el que el usuario dice en voz alta.
+
+Encuéntrame en [DaydreamsDeveloper.com](https://daydreamsdeveloper.com/home-es.html) o en mi [portafolio](https://daydreamsdeveloper.com/portfolio-es.html).
