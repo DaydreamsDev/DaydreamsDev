@@ -84,11 +84,6 @@ Extends the floating action button with messaging and social widgets for WordPre
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 🔗 [GitHub](https://github.com/DaydreamsDev/floating-action-button-extended)
 
-### 🎮 RSBot — Silkroad Online project
-Open-source Silkroad Online bot written in C# with C/C++ interop.
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-🔗 [GitHub](https://github.com/DaydreamsDev/RSBot)
-
 # <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="25px"> GitHub Stats:
 <p align="center">
   <a href="https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github&card_width=420"><img src="https://github-readme-stats-daydreamsdeveloper.vercel.app/api?username=DaydreamsDev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&rank_icon=github&card_width=420" alt="GitHub Stats"></a>
