@@ -61,11 +61,11 @@
 </p>
 
 # 🧠 Engineering Practices
-**Principles:**&nbsp;&nbsp;SOLID · DRY · KISS · YAGNI · Design Patterns
+**Principles:**&nbsp;&nbsp;SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) · DRY (Don't Repeat Yourself) · KISS (Keep It Simple, Stupid) · YAGNI (You Aren't Gonna Need It) · Design Patterns
 
-**Architecture:** Layered · MVC · REST APIs
+**Architecture:** Layered · MVC (Model-View-Controller) · REST APIs · FSD (Feature-Sliced Design)
 
-**Process:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD · SDD · Scrum · Kanban
+**Process:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD (Test-Driven Development) · SDD (Spec-Driven Development) · Scrum · Kanban
 
 # 🚀 In Production
 **Products I've built and shipped.**
