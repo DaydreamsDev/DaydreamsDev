@@ -60,6 +60,13 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"> <img src="https://img.shields.io/badge/Claude_AI_Agent-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI Agent">
 </p>
 
+# 🧠 Engineering Practices
+**Principles:**&nbsp;&nbsp;SOLID · DRY · KISS · YAGNI · Design Patterns
+
+**Architecture:** Layered · MVC
+
+**Process:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD · SDD · Scrum · Kanban
+
 # 🚀 In Production
 **Products I've built and shipped.**
 
