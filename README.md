@@ -61,7 +61,7 @@
 </p>
 
 # 🧠 Engineering Practices
-**Principles:**&nbsp;&nbsp;SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) · DRY (Don't Repeat Yourself) · KISS (Keep It Simple, Stupid) · YAGNI (You Aren't Gonna Need It) · Design Patterns
+**Principles:**&nbsp;&nbsp;SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) · DRY (Don't Repeat Yourself) · KISS (Keep It Short and Simple) · YAGNI (You Aren't Gonna Need It) · Design Patterns
 
 **Architecture:** Layered · MVC (Model-View-Controller) · REST APIs · FSD (Feature-Sliced Design)
 
